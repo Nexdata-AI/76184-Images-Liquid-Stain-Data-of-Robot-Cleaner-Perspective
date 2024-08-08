@@ -3,7 +3,7 @@
 ## Description
 76,184 Images-Liquid Stain Data of Robot Cleaner Perspective, the collection environment is indoor scenes. Data diversity includes multiple scenes, different time periods, different photographic angles and different categories of items. Dataset can be used for liquid stain identification and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1224?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1224?source=Github
 
 
 ## Data size
